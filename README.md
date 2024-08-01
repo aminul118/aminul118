@@ -42,18 +42,19 @@
 <br>
 <br>
 
-
-<div align="center">
-  <h2>🌐 Social Media:</h2>
+<h2 align="center">Social Media </h2> 
+<p align="center">
   <a href="https://www.linkedin.com/in/aminul118/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/> </a>
+    <img src="https://github.com/aminul118/aminul118/blob/main/images/linkedin.png" width="40" height="40" alt="linkedin logo"/> </a>
+     <img  width="8"/>
  
   <a href="https://www.facebook.com/aminul118" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"/> </a>
+    <img src="https://github.com/aminul118/aminul118/blob/main/images/facebook.png" width="40" height="40" alt="facebook logo"/> </a>
+     <img  width="8"/>
  
   <a href="https://t.me/aminul118" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"/>  </a>
-
+    <img src="https://github.com/aminul118/aminul118/blob/main/images/telegram.png" width="40" height="40" alt="telegram logo"/>  </a>
+    </p>
 
 
 
@@ -67,12 +68,9 @@
 </div>
 
 
+
 <br>  
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aminul118&limit=5&theme=dark&combine_all_yearly_contributions=true)
-###
-
+<br>
 <h2 align="center">Profile Visitors</h2>
 <div align="center">
   <img src="https://profile-counter.glitch.me/aminul118/count.svg?"  />
