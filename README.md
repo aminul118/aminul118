@@ -18,7 +18,8 @@
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/java-script.png" height="40" alt="java-script logo"  />
   <img  width="8"/>
   <img height="140 " src="https://github.com/aminul118/aminul118/blob/main/images/react.png" height="40" alt="react logo"  />
-
+</p>
+<p align="center">
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/react-router-dom.png" height="40" alt="react-router-dom logo"  />
   <img  width="8"/>
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/firebase.png" height="40" alt="firebase logo"  />
