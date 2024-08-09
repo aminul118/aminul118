@@ -10,25 +10,15 @@
 <h2 align="center">My Skill Set </h2> 
 <p align="center">
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/html.png" height="40" alt="html5 logo"  />
-  <img  width="8"/>
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/css.png" height="40" alt="css3 logo"  />
-  <img  width="8"/>
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/tailwind-css.png" height="40" alt="tailwind-css logo"  />
-  <img  width="8"/>
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/java-script.png" height="40" alt="java-script logo"  />
-  <img  width="8"/>
   <img height="140 " src="https://github.com/aminul118/aminul118/blob/main/images/react.png" height="40" alt="react logo"  />
-</p>
-<p align="center">
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/react-router-dom.png" height="40" alt="react-router-dom logo"  />
-  <img  width="8"/>
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/firebase.png" height="40" alt="firebase logo"  />
-  <img  width="8"/>
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/node-js.png" height="40" alt="node-js logo"  />
-  <img  width="8"/>
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/express-js.png" height="40" alt="express-js logo"  />
-  <img  width="8"/>
-  <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/mongodb.png" height="40" alt="mongodb logo"  /> 
+   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/mongodb.png" height="40" alt="mongodb logo"  /> 
 </p>
 </br>
 
