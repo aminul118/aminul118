@@ -3,7 +3,8 @@
 </div>
 
 
- <div align="center"> <p> I'm Md Aminul Islam, A full time full stack web developer 👨‍💻</p></div>  
+ <div align="center"> <p> I'm Md Aminul Islam, A junior web developer with growing expertise in front-end and back-end technologies. 
+   Passionate about creating modern and responsive web systems & dedicated to learning and mastering new skills to make a meaningful impact in the tech world. 👨‍💻</p></div>  
 <br>  
 
 
