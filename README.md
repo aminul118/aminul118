@@ -1,7 +1,8 @@
 <div align="center">
-  <img height="auto" height="auto" src="https://media.licdn.com/dms/image/D5616AQEQEp4SvlzvEg/profile-displaybackgroundimage-shrink_350_1400/0/1716227166006?e=1727913600&v=beta&t=pU_V_Q0DJZbQlyb4hyC7nsUZce1DL-q47nEEoOyMcko"  />
+  <img height="auto" height="auto" src="https://github.com/aminul118/aminul118/blob/main/images/github-banner.jpg"  />
 </div>
-
+<br>
+<br>
 
  <div align="center"> <p> I'm Md Aminul Islam, A junior web developer with growing expertise in front-end and back-end technologies. 
    Passionate about creating modern and responsive web systems & dedicated to learning and mastering new skills to make a meaningful impact in the tech world. 👨‍💻</p></div>  
