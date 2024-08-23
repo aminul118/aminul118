@@ -14,6 +14,7 @@
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/html.png" height="40" alt="html5 logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/css.png" height="40" alt="css3 logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/tailwind-css.png" height="40" alt="tailwind-css logo"  />
+  <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/daisy-ui.png"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/java-script.png" height="40" alt="java-script logo"  />
   <img height="140 " src="https://github.com/aminul118/aminul118/blob/main/images/react.png" height="40" alt="react logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/react-router-dom.png" height="40" alt="react-router-dom logo"  />
