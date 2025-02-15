@@ -6,17 +6,17 @@
 
  <div align="center"> <p> I'm Md Aminul Islam, A junior web developer with growing expertise in front-end and back-end technologies. 
    Passionate about creating modern and responsive web systems & dedicated to learning and mastering new skills to make a meaningful impact in the tech world. 👨‍💻</p></div>  
-<br>  
-
+<br>
 
 <h2 align="center">My Skill Set </h2> 
 <p align="center">
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/html.png" height="40" alt="html5 logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/css.png" height="40" alt="css3 logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/tailwind-css.png" height="40" alt="tailwind-css logo"  />
-  <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/daisy-ui.png"  />
-  <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/java-script.png" height="40" alt="java-script logo"  />
+  <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/java-script.png" height="40" alt="javaScript logo"  />
+  <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/typeScript.png" height="40" alt="typeScript Logo"  />
   <img height="140 " src="https://github.com/aminul118/aminul118/blob/main/images/react.png" height="40" alt="react logo"  />
+  <img height="140 " src="https://github.com/aminul118/aminul118/blob/main/images/nextjs.png" height="40" alt="Next js logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/react-router-dom.png" height="40" alt="react-router-dom logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/firebase.png" height="40" alt="firebase logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/node-js.png" height="40" alt="node-js logo"  />
@@ -49,8 +49,6 @@
     <img src="https://github.com/aminul118/aminul118/blob/main/images/telegram.png" width="40" height="40" alt="telegram logo"/>  </a>
     </p>
 
-
-
 <br>
 <br>
 <div align="center">
@@ -59,4 +57,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aminul118&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br><br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminul118&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
