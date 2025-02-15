@@ -28,7 +28,7 @@
 <!-- CV download button -->
 
 <div align="center">
-<a href="https://drive.google.com/file/d/1r9vn-V0T0ggA_jv7ehoUggTX8W6K2Sx1/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1qFhseJuTam56VdKCmRRbv-7NJy2rlMuY/view?usp=sharing" target="_blank">
     <img src="https://github.com/aminul118/aminul118/blob/main/images/cv-button.png" width="200" height="50" alt="CV button logo"/> </a>
 </div>
 
