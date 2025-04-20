@@ -40,6 +40,7 @@
 <p align="center">
   <a href="https://www.aminul.tech" target="_blank">
     <img src="https://github.com/aminul118/aminul118/blob/main/images/globe.png" width="40" height="40" alt="telegram logo"/>  </a>
+      <img  width="8"/>
   <a href="https://www.linkedin.com/in/aminul118/" target="_blank">
     <img src="https://github.com/aminul118/aminul118/blob/main/images/linkedin.png" width="40" height="40" alt="linkedin logo"/> </a>
      <img  width="8"/>
