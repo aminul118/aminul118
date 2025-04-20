@@ -4,7 +4,7 @@
 <br>
 <br>
 
- <div align="center"> <p> I'm Md Aminul Islam, A junior web developer with growing expertise in front-end and back-end technologies. 
+ <div align="center"> <p> I'm Md Aminul Islam, web developer with growing expertise in front-end and back-end technologies. 
    Passionate about creating modern and responsive web systems & dedicated to learning and mastering new skills to make a meaningful impact in the tech world. 👨‍💻</p></div>  
 <br>
 
@@ -29,7 +29,7 @@
 <!-- CV download button -->
 
 <div align="center">
-<a href="https://drive.google.com/file/d/1qFhseJuTam56VdKCmRRbv-7NJy2rlMuY/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/13UoVSA73_jqtcSI1FqkAFmiLuGuEcC0G/view?usp=sharing" target="_blank">
     <img src="https://github.com/aminul118/aminul118/blob/main/images/cv-button.png" width="200" height="50" alt="CV button logo"/> </a>
 </div>
 
@@ -38,6 +38,8 @@
 
 <h2 align="center">Social Media </h2> 
 <p align="center">
+  <a href="https://www.aminul.tech" target="_blank">
+    <img src="https://github.com/aminul118/aminul118/blob/main/images/globe.png" width="40" height="40" alt="telegram logo"/>  </a>
   <a href="https://www.linkedin.com/in/aminul118/" target="_blank">
     <img src="https://github.com/aminul118/aminul118/blob/main/images/linkedin.png" width="40" height="40" alt="linkedin logo"/> </a>
      <img  width="8"/>
