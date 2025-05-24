@@ -29,7 +29,7 @@
 <!-- CV download button -->
 
 <div align="center">
-<a href="https://drive.google.com/file/d/13UoVSA73_jqtcSI1FqkAFmiLuGuEcC0G/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1O5ESscTRHSX3lLLx3V0lV9J91sCxQiRo/view?usp=sharing" target="_blank">
     <img src="https://github.com/aminul118/aminul118/blob/main/images/cv-button.png" width="200" height="50" alt="CV button logo"/> </a>
 </div>
 
@@ -38,7 +38,7 @@
 
 <h2 align="center">Social Media </h2> 
 <p align="center">
-  <a href="https://www.aminul.tech" target="_blank">
+  <a href="https://www.aminuldev.site" target="_blank">
     <img src="https://github.com/aminul118/aminul118/blob/main/images/globe.png" width="40" height="40" alt="telegram logo"/>  </a>
       <img  width="8"/>
   <a href="https://www.linkedin.com/in/aminul118/" target="_blank">
