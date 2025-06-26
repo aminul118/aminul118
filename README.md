@@ -10,12 +10,12 @@
 
 <h2 align="center">My Skill Set </h2> 
 <p align="center">
+  <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/java-script.png" height="40" alt="javaScript logo"  />
+  <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/typeScript.png" height="40" alt="typeScript Logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/html.png" height="40" alt="html5 logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/css.png" height="40" alt="css3 logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/tailwind-css.png" height="40" alt="tailwind-css logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/shadcn.png" height="40" alt="Shadcn ui logo"  />
-  <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/java-script.png" height="40" alt="javaScript logo"  />
-  <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/typeScript.png" height="40" alt="typeScript Logo"  />
   <img height="140 " src="https://github.com/aminul118/aminul118/blob/main/images/react.png" height="40" alt="react logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/react-router-dom.png" height="40" alt="react-router-dom logo"  />
   <img height="140 " src="https://github.com/aminul118/aminul118/blob/main/images/nextjs.png" height="40" alt="Next js logo"  />
