@@ -16,14 +16,16 @@
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/java-script.png" height="40" alt="javaScript logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/typeScript.png" height="40" alt="typeScript Logo"  />
   <img height="140 " src="https://github.com/aminul118/aminul118/blob/main/images/react.png" height="40" alt="react logo"  />
-  <img height="140 " src="https://github.com/aminul118/aminul118/blob/main/images/nextjs.png" height="40" alt="Next js logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/react-router-dom.png" height="40" alt="react-router-dom logo"  />
+  <img height="140 " src="https://github.com/aminul118/aminul118/blob/main/images/nextjs.png" height="40" alt="Next js logo"  />
+  <img height="140 " src="https://github.com/aminul118/aminul118/blob/main/images/redux.png" height="40" alt="Redux logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/firebase.png" height="40" alt="firebase logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/node-js.png" height="40" alt="node-js logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/express-js.png" height="40" alt="express-js logo"  />
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/mongodb.png" height="40" alt="mongodb logo"  /> 
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/mongoose.png" height="40" alt="mongoose logo"  /> 
   <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/postgresql.png" height="40" alt="postgresql logo"  /> 
+  <img height="140" src="https://github.com/aminul118/aminul118/blob/main/images/prisma.png" height="40" alt="prisma logo"  /> 
 </p>
 </br>
 
